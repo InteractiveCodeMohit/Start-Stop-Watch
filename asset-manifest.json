@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Start-Stop-Watch/static/css/main.4a5c8d30.css",
+    "main.js": "/Start-Stop-Watch/static/js/main.320d184a.js",
+    "static/js/787.3c0fc6aa.chunk.js": "/Start-Stop-Watch/static/js/787.3c0fc6aa.chunk.js",
+    "index.html": "/Start-Stop-Watch/index.html",
+    "main.4a5c8d30.css.map": "/Start-Stop-Watch/static/css/main.4a5c8d30.css.map",
+    "main.320d184a.js.map": "/Start-Stop-Watch/static/js/main.320d184a.js.map",
+    "787.3c0fc6aa.chunk.js.map": "/Start-Stop-Watch/static/js/787.3c0fc6aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a5c8d30.css",
+    "static/js/main.320d184a.js"
+  ]
+}
